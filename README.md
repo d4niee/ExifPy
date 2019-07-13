@@ -3,10 +3,8 @@
 <img src="exifpy.PNG">
 ## Usage 
 
-<h3>To run ExifPy you need python 3+<br>
-<br>
+<h3>To run ExifPy you need python 3+<br></h3>
 ```
   git clone https://github.com/dani251/ExifPy
 ```
 
-</h3>
