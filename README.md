@@ -3,7 +3,6 @@
 <img src="exifpy.PNG">
 ## Usage 
 To run ExifPy you need python 3+
-```
 
 
 
