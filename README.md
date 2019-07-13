@@ -6,6 +6,8 @@ To run ExifPy you need python 3+
 ```
 
 git clone https://github.com/dani251/ExifPy
+pip install -r requirements.txt
+python3 ExifPy
 
 ```
 f
