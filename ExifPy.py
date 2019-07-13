@@ -5,7 +5,7 @@
 ExifPy is a python script to read the metadatas
 in jpg, jpeg, png,.. img files
 
-@author: Daniel Lambrecht (dani251)
+@author: Daniel Lambrecht (d4nny251)
 @version 0.1
 required python version: 3 or higher 
 
@@ -27,9 +27,9 @@ import os
 def banner():
     print("\n\n\033[1;33;40m          _  __           ")
     print("\033[1;33;40m  _____ _(_)/ _|\033[1;32;40m_ __ _  _ ")
-    print("\033[1;33;40m / -_) \ / |  _\033[1;32;40m| '_ \ || |   \033[1;33;40mdeveloper: \033[1;32;40m@dani251")
+    print("\033[1;33;40m / -_) \ / |  _\033[1;32;40m| '_ \ || |   \033[1;33;40mdeveloper: \033[1;32;40m@d4nny251")
     print("\033[1;33;40m \___/_\_\_|_| \033[1;32;40m| .__/\_, |   \033[1;33;40mversion  : \033[1;32;40m0.1")
-    print("\033[1;33;40m               \033[1;32;40m|_|   |__/    \033[1;33;40mgithub   : \033[1;32;40mhttps://github.com/dani251/exifpy")
+    print("\033[1;33;40m               \033[1;32;40m|_|   |__/    \033[1;33;40mgithub   : \033[1;32;40mhttps://github.com/d4nny251/exifpy")
 
 #function to save the exif datas into a output file 
 def save_to_file(tag, value, img, md, out):
